@@ -1,0 +1,46 @@
+Ans 1.
+Statically typed languages perform type checking at compile-time, while dynamically-typed languages perform type checking at run-time. 
+
+Statically-typed languages require you to declare the data types of your variables before you use them, while dynamically-typed languages do not.
+
+Ans 2.
+In Java, Variables are the data containers that save the data values during Java program execution. 
+Every Variable in Java is assigned a data type that designates the type and quantity of value it can hold. 
+A variable is a memory location name for the data.
+
+Ans 3.
+Where type is one of Java's types (such as int or String), and variableName is the name of the variable (such as x or name). 
+The equal sign is used to assign values to the variable.
+Eg.  int x=10;
+
+Ans 4.
+the primitive data types are the predefined data types of Java. They specify the size and type of any standard values. 
+Java has 8 primitive data types namely byte, short, int, long, float, double, char and boolean.
+
+Ans 5.
+All Java variables must be identified with unique names.
+
+These unique names are called identifiers.
+
+Ans 6.
+java has the following types of operators:
+
+1.Arithmetic Operators.
+2.Assignment Operators.
+3.Logical Operators.
+4.Relational Operators.
+5.Unary Operators.
+6.Bitwise Operators.
+7.Ternary Operators.
+8.Shift Operators.
+
+Ans 7.
+ the increment operator ++ increases the value of a variable by 1. Similarly
+ the decrement operator -- decreases the value of a variable by 1.
+
+
+eg. int a=7;
+    int b=++a
+
+    int c=5;
+    int d=--c;

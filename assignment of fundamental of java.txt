@@ -1,0 +1,27 @@
+Ans 1.
+A programming language is a computer language that is used by programmer to communicate with computers.
+
+Ans 2.
+The most important purpose of programming is to provide instruction to a computers.
+
+Ans 3.
+major features of java is-:
+  1.simple   2. platform independent  3.multi-threaded  4.secure  5.object oriented  6.portable
+
+Ans 4.
+An entity that has state,behavior and identity is known as an object 
+eg.. car, pen etc.
+
+Ans 5.
+A class is a group of object which have common properties.It is a template or blueprint from which 
+object are created.
+a class in java can contain-:
+1.method 2.constructor 3.block 4. fields
+
+
+Ans 6.
+It is the name of thejava main method . It is the identifier that the JVM looks for as the statring points of the 
+java program.It is not a keyword.
+
+It is default signature which is predefined in the JVM. It is called by JVM to execute a program line by line and end the 
+execution after completion of this method..

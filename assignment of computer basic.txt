@@ -1,0 +1,27 @@
+Ans 1.
+
+Computer is a  an electronically programmable device or computer to take a input/data then processing a data 
+to get a output.
+
+Ans 2.
+
+Ram(Random access Memory) is the internal memory of CPU for storing data,program and program result. it is a 
+read/write memory which store data until the machine is working.As soon as the m/c is switch off, data is erased.
+
+Ans3.
+Hard disk and SSD(solid state drive)
+
+Ans 4.
+keyboard
+
+Ans 5.
+Moniter,printer and speaker
+
+Ans 6.
+Mouse
+
+Ans 7.
+Machine Language
+
+Ans 8.
+Keyboard,Mouse and lightpen...
